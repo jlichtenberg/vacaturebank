@@ -96,19 +96,22 @@ body {
 }
 
 .content-wrapper2 {
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(180, 201, 180);
     height: auto;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    padding: 0 3vw;
+    padding: 3vh 3vw;
 }
 
 .vac-box {
-    border: 1px solid black;
+    border-radius: 3px;
     padding: 20px;
     margin: 10px;
     width: 300px;
+    background-color: $color_white;
+    -webkit-box-shadow: 0px 0px 17px -4px #000000; 
+    box-shadow: 0px 0px 17px -4px #000000;
 
     .vac-info {
     display: flex;

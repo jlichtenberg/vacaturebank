@@ -28,7 +28,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac erat at odio volutpat tincidunt at eu ligula. Mauris sollicitudin, urna ut pretium consequat, enim ligula interdum risus, at porttitor nibh metus vel risus. Quisque et porttitor nisl. Vivamus imperdiet ac mauris vitae pharetra. Maecenas quis nulla et urna luctus porttitor.</p>
         </div>
         <div class="content-wrapper2">
-            <div class="vac-box">
+            <div class="vac-box" onclick="location.href='vacature1';" style="cursor: pointer;">
                 <h3>Lorem ipsum dolor sit amet</h3>
                 <div class="vac-info">
                     <div class="vac-info-container">
@@ -38,10 +38,10 @@
                         <img src="recources/clock.png" alt=""><p>22 uur</p>
                     </div>
                 </div>
-                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit.</p>
+                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit...<br><br><span class="logo-color">Lees hier meer</span></p>
             </div>
 
-            <div class="vac-box">
+            <div class="vac-box" onclick="location.href='vacature2';" style="cursor: pointer;">
                 <h3>Lorem ipsum dolor sit amet</h3>
                 <div class="vac-info">
                     <div class="vac-info-container">
@@ -51,10 +51,10 @@
                         <img src="recources/clock.png" alt=""><p>22 uur</p>
                     </div>
                 </div>
-                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit.</p>
+                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit...<br><br><span class="logo-color">Lees hier meer</span></p>
             </div>
 
-            <div class="vac-box">
+            <div class="vac-box" onclick="location.href='vacature3';" style="cursor: pointer;">
                 <h3>Lorem ipsum dolor sit amet</h3>
                 <div class="vac-info">
                     <div class="vac-info-container">
@@ -64,10 +64,10 @@
                         <img src="recources/clock.png" alt=""><p>22 uur</p>
                     </div>
                 </div>
-                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit.</p>
+                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit...<br><br><span class="logo-color">Lees hier meer</span></p>
             </div>
 
-            <div class="vac-box">
+            <div class="vac-box"  onclick="location.href='vacature4';" style="cursor: pointer;">
                 <h3>Lorem ipsum dolor sit amet</h3>
                 <div class="vac-info">
                     <div class="vac-info-container">
@@ -77,7 +77,7 @@
                         <img src="recources/clock.png" alt=""><p>22 uur</p>
                     </div>
                 </div>
-                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit.</p>
+                <p>In eget massa a nunc euismod porta eu ac ex. Proin pharetra lobortis blandit. Morbi libero dui, venenatis et ultricies in, egestas id orci. Praesent nec turpis velit...<br><br><span class="logo-color">Lees hier meer</span></p>
             </div>
         </div>
     </div>
